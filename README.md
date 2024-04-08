@@ -12,7 +12,9 @@ I'm Nan. Welcome to my GitHub 😃
 - Digital Health
 - Neuroscience
 
-<!-- 📖 **I’m currently learning:** -->
+📖 **Publications**
+
+- [Not growing out of it](https://github.com/NVFL/NVFL/blob/main/Not%20growing%20out%20of%20it.pdf) 
 
 📫 **How to reach me**
 
