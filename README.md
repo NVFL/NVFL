@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-I'm Nan. Welcome to my GitHub.
-
 ### About Me
 
 💻 **I’m currently working on** applied machine learning for healthcare 🩺  
