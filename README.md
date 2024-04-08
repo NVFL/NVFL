@@ -14,7 +14,8 @@ I'm Nan. Welcome to my GitHub 😃
 
 📖 **Publications**
 
-- [Not growing out of it](https://github.com/NVFL/NVFL/blob/main/Not%20growing%20out%20of%20it.pdf) 
+- [Not growing out of it](https://github.com/NVFL/NVFL/blob/main/Not%20growing%20out%20of%20it.pdf)
+- [A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194) 
 
 📫 **How to reach me**
 
