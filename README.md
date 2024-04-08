@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-### About Me
-
 💻 **I’m currently working on** applied machine learning for healthcare 🩺  
 
 🔭 **I’m interested in:**
